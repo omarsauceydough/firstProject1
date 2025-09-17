@@ -37,4 +37,4 @@ int divide = a / y;
 Console.WriteLine("a / y = " + divide);
 
 int mod = x % b;
-Console.WriteLine("x % b = " + mod);
+Console.WriteLine("x % b = " + mod); //change
