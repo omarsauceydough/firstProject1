@@ -4,6 +4,8 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "veryFirstProject", "veryFirstProject", "{729666C4-CF3B-596D-DC3B-DE9BE2E99489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches", "veryFirstProject\Switches\Switches.csproj", "{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veryFirstProject", "veryFirstProject\veryFirstProject\veryFirstProject.csproj", "{EEBE0E5B-AE22-C6F7-3BD4-8B131ACC7829}"
 EndProject
 Global
@@ -12,6 +14,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EEBE0E5B-AE22-C6F7-3BD4-8B131ACC7829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EEBE0E5B-AE22-C6F7-3BD4-8B131ACC7829}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEBE0E5B-AE22-C6F7-3BD4-8B131ACC7829}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -21,9 +27,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{2AC04995-ACC8-1D77-E77D-5F13FDBE97C4} = {729666C4-CF3B-596D-DC3B-DE9BE2E99489}
 		{EEBE0E5B-AE22-C6F7-3BD4-8B131ACC7829} = {729666C4-CF3B-596D-DC3B-DE9BE2E99489}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2DA1712D-4D77-4F4A-B2DC-7197821E43D1}
+		SolutionGuid = {FE553D7B-1E2A-4365-8FDB-FD4A3054B280}
 	EndGlobalSection
 EndGlobal

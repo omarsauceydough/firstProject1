@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\bin\Debug\net9.0\evenOrOdd.exe
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\bin\Debug\net9.0\evenOrOdd.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\bin\Debug\net9.0\evenOrOdd.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\bin\Debug\net9.0\evenOrOdd.dll
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\bin\Debug\net9.0\evenOrOdd.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.dll
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\refint\evenOrOdd.dll
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\evenOrOdd.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\evenOrOdd\obj\Debug\net9.0\ref\evenOrOdd.dll

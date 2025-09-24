@@ -1,0 +1,5 @@
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\Switches\obj\Debug\net9.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\Switches\obj\Debug\net9.0\Switches.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\Switches\obj\Debug\net9.0\Switches.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\Switches\obj\Debug\net9.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\Switches\obj\Debug\net9.0\Switches.sourcelink.json
