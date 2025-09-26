@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\bin\Debug\net8.0\switchDay.exe
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\bin\Debug\net8.0\switchDay.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\bin\Debug\net8.0\switchDay.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\bin\Debug\net8.0\switchDay.dll
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\bin\Debug\net8.0\switchDay.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.dll
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\refint\switchDay.dll
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\switchDay.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\switchDay\obj\Debug\net8.0\ref\switchDay.dll
