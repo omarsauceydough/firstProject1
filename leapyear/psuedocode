@@ -1,0 +1,33 @@
+//Start
+
+//Prompt user
+//Write "Please enter any year!"
+//Read int = year
+
+//check divisibility
+// divBy4 = year % == 0
+// divBy100 = year % == 0 
+// divBy400 = year % == 0  
+
+//Display divisibility results
+//Writeline year entered (year)
+
+//if divBy4 then
+//Writeline "Divisible by 4!
+//else
+//Writeline "Not divisible by 4."
+
+//if divBy100 then
+//Writeline "Divisible by 100!
+//else
+//Writeline "Not divisible by 100."
+
+//if divBy400 then
+//Writeline "Divisible by 400!
+//else
+//Writeline "Not divisible by 400."
+
+//Determine if leap year with compound if statement
+//if divBy4 AND (NOT divBy100 OR divBy400) then
+//Writeline "It's a leap year!"
+//Else Writeline "It's not a leap year :(")
