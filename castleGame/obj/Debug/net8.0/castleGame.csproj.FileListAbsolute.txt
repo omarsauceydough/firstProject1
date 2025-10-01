@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\bin\Debug\net8.0\castleGame.exe
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\bin\Debug\net8.0\castleGame.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\bin\Debug\net8.0\castleGame.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\bin\Debug\net8.0\castleGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\bin\Debug\net8.0\castleGame.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\refint\castleGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\castleGame.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\castleGame\obj\Debug\net8.0\ref\castleGame.dll
