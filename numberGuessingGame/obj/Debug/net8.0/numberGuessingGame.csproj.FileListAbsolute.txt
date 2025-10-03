@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.exe
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\refint\numberGuessingGame.dll
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\numberGuessingGame\obj\Debug\net8.0\ref\numberGuessingGame.dll
