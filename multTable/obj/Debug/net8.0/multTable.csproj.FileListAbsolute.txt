@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\bin\Debug\net8.0\multTable.exe
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\bin\Debug\net8.0\multTable.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\bin\Debug\net8.0\multTable.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\bin\Debug\net8.0\multTable.dll
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\bin\Debug\net8.0\multTable.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.dll
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\refint\multTable.dll
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\multTable.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\multTable\obj\Debug\net8.0\ref\multTable.dll
