@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\bin\Debug\net8.0\fruitList.exe
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\bin\Debug\net8.0\fruitList.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\bin\Debug\net8.0\fruitList.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\bin\Debug\net8.0\fruitList.dll
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\bin\Debug\net8.0\fruitList.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.dll
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\refint\fruitList.dll
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\fruitList.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\fruitList\obj\Debug\net8.0\ref\fruitList.dll
