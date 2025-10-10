@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\bin\Debug\net8.0\rngCruncher.exe
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\bin\Debug\net8.0\rngCruncher.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\bin\Debug\net8.0\rngCruncher.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\bin\Debug\net8.0\rngCruncher.dll
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\bin\Debug\net8.0\rngCruncher.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.dll
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\refint\rngCruncher.dll
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\rngCruncher.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\rngCruncher\obj\Debug\net8.0\ref\rngCruncher.dll
