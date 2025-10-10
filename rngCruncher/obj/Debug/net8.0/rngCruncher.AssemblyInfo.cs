@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rngCruncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce069910451b8cf3ea399f562a92f060a919541f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7362f709dc1ac82488653feed43e77f05b84f004")]
 [assembly: System.Reflection.AssemblyProductAttribute("rngCruncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rngCruncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
