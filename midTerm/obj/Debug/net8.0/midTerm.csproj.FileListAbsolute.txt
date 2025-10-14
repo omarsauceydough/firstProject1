@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\bin\Debug\net8.0\midTerm.exe
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\bin\Debug\net8.0\midTerm.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\bin\Debug\net8.0\midTerm.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\bin\Debug\net8.0\midTerm.dll
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\bin\Debug\net8.0\midTerm.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.dll
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\refint\midTerm.dll
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\midTerm.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\midTerm\obj\Debug\net8.0\ref\midTerm.dll
