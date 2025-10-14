@@ -2,8 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello initial commit!");
-
         //initialize arrays and variables and whatnot
         string[] historyWords = { "WASHINGTON", "LINCOLN", "REVOLUTION", "CONSTITUTION", "INDEPENDENCE", "GOVERNMENT", "DEMOCRACY", "PRESIDENT", "FREEDOM", "AMENDMENT" };
 
@@ -32,11 +30,13 @@
         //if statement to control category selection and word
         if (choice == "1")
         {
+            Console.WriteLine("----------------------------------");
             Console.WriteLine("\nCategory Selected: US History");
             actualWord = historyWords[random.Next(historyWords.Length)];
         }
         else if (choice == "2")
         {
+            Console.WriteLine("----------------------------------");
             Console.WriteLine("\nCategory Selected: Animals");
             actualWord = animalWords[random.Next(animalWords.Length)];
         }
@@ -44,7 +44,7 @@
         {
             Console.WriteLine("----------------------------------");
             Console.WriteLine("\nCategory Selected: Movies and TV");
-            actualWord = movieWords[random.Next(animalWords.Length)];
+            actualWord = movieWords[random.Next(movieWords.Length)];
         }
         else
         {
@@ -76,7 +76,7 @@
             if (guessedLetters.Contains(guess))
             {
                 Console.WriteLine("--------------------------------");
-                Console.WriteLine("You already guess " + guess + "!");
+                Console.WriteLine("You already guessed " + guess + "!");
                 continue;
             }
             //Add the guess to guessed letters
