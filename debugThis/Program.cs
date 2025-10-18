@@ -7,7 +7,7 @@ Console.WriteLine("Welcome to the Debugging Challenge!"); //Added missing period
 Console.Write("Enter your name? "); // Check this line
 string name = Console.ReadLine();
 
-Console.WriteLine("Hello " + name + "! Let's do some math."); // Rewrite this line
+Console.WriteLine($"Hello " + name + "! Let's do some math."); // Rewrite this line
 Console.Write("Enter a number: ");
 int number = int.Parse(Console.ReadLine()); // Check this line
 
