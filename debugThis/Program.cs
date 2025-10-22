@@ -3,19 +3,38 @@
 
 // Even though we are writing top-level code, we still need two "using" statements; enter them below
 
+using System.ComponentModel;
+
 Console.WriteLine("Welcome to the Debugging Challenge!"); //Added missing period between Console and WriteLine
-Console.Write("Enter your name? "); // Check this line
+Console.Write("Enter your name>> "); // Changed ? to >>
 string name = Console.ReadLine();
 
-Console.WriteLine($"Hello " + name + "! Let's do some math."); // Rewrite this line
+//adding check for null or empty name
+if (string.IsNullOrEmpty(name))
+{
+    name = "Anonymous";
+}
+
+Console.WriteLine($"Greetings {name}! Let's crunch some numbers."); // Rewrote this line
 Console.Write("Enter a number: ");
-int number = int.Parse(Console.ReadLine()); // Check this line
+string numberInput = Console.ReadLine();
+int number;
+if(!int.TryParse(numberInput, out number))
+{
+    Console.WriteLine("Invalid number input! Using 5 instead!");
+    number = 5;
+}
+if (number == 0) //Added divde by 0 check 
+{
+    Console.WriteLine("Cannot divide by 0! Using 1 instead!");
+    number = 1;
+}
 
 int result = 100 / number; // Check this line
-Console.WriteLine("100 divided by your number is: " + result); // Rewrite this line
+Console.WriteLine($"100 divided by {number} is: {result}"); // Rewrote this line
 
-int remainder = 100 / number; // Check this line
-Console.WriteLine("The remainder of 100 divided by your number is: " + remainder); // Rewrite this line
+int remainder = 100 % number; // Changed / to %
+Console.WriteLine($"{remainder} Is the remainder of 100 divided by your number!"); // Rewrote this line
 
 if (number == 10) // Fixed ( = -> == )
 {
@@ -27,45 +46,57 @@ else //Fixed ( els -> else)
 }
 
 int counter = 0;
-while (counter < number)
+while (counter <= number)
 {
-    Console.WriteLine("Counting up: " + counter); // Rewrite this line
-    counter--; // Check this line
+    Console.WriteLine($"Counting up: {counter}"); //Rewrote this line
+    counter++; //Changed -- to ++
 }
 Console.WriteLine("Done counting!");
 
-string again;
-while()
+string again = "yes"; //added = "yes"
+while(again == "yes") //Added again == yes
 {
     Console.WriteLine("Do you want to see your number squared? (yes/no)");
     again = Console.ReadLine();
 
-    Console.WriteLine("Your number squared is: " + number * number); // Rewrite this line. Hint: Use format strings to make this line better
+    if (again == "yes")
+    {
+        Console.WriteLine($"Your number squared is: {number * number}"); //Rewrote this line
+        break; //Added break
+    }
+    else
+    {
+        Console.WriteLine("Moving on then!");
+        break; //Added else statement
+    }
 }
-do (again == "yes"); // There are two fixes to make to this line
-
-
-while (int i = 5; i >= 0; i++) // Changed to while loop,
+//Removed do while line for a for loop instead
+for (int i = 5; i >= 0; i--)
 {
-    Console.WriteLine("Countdown: " + i);
+    Console.WriteLine($"Countdown: {i}");
 }
 
 int[] scores = new int[5];
-scores[5] = 100; // Check this line
-Console.WriteLine("First score: " + scores[0]); // Check this line and rewrite it
-Console.WriteLine("Last score: "); // Finish this line
+scores[4] = 100; //Changed 5 to 4
+Console.WriteLine($"First score: {scores[0]}"); //Rewrote this line
+Console.WriteLine($"Last score: {scores[4]}"); //Completed line
 
 List<string> fruits = new List<string>() { "Apple", "Banana", "Cherry" };
-fruits.Remove("Pineapple"); // Check this line
-fruits.Add(null); // Check this line
+fruits.Remove("Apple"); //Removed apple instead because pineapple wasnt on the List
+fruits.Add("Orange"); //Changed null to orange?
 
 foreach (string fruit in fruits)
 {
-    Console.WriteLine(fruit.ToUpper()); // Check this line
+    Console.WriteLine(fruit.ToUpper()); //Found nothing wrong
 }
 
 Console.Write("Pick a number between 1 and 3: ");
-int choice = int.Parse(Console.ReadLine());
+string choiceInput = Console.ReadLine(); //using TryParse for choice input
+int choice;
+if(!int.TryParse(choiceInput, out choice))
+{
+    Console.WriteLine("Invalid choice, choosing 1 instead!");
+}
 
 switch (choice) //added breaks to fix error, fixed spelling error (choce -> choice)
 {
@@ -83,81 +114,6 @@ switch (choice) //added breaks to fix error, fixed spelling error (choce -> choi
         break;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Console.WriteLine("Thanks for debugging, " + name + "!");
+Console.WriteLine($"Thanks for debugging, {name}!");
 Console.WriteLine("Press Enter to exit.");
 Console.ReadLine();

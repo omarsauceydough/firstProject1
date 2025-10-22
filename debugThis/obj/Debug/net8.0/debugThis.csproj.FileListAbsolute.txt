@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\bin\Debug\net8.0\debugThis.exe
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\bin\Debug\net8.0\debugThis.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\bin\Debug\net8.0\debugThis.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\bin\Debug\net8.0\debugThis.dll
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\bin\Debug\net8.0\debugThis.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.dll
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\refint\debugThis.dll
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\debugThis.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\debugThis\obj\Debug\net8.0\ref\debugThis.dll
