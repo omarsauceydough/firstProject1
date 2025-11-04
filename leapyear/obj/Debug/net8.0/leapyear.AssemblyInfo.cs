@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("leapyear")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b130368a1a4d66429de66c21becf16df6b9dd40d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae34d2dd976d5d7c868342de227bc4b51be4d210")]
 [assembly: System.Reflection.AssemblyProductAttribute("leapyear")]
 [assembly: System.Reflection.AssemblyTitleAttribute("leapyear")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

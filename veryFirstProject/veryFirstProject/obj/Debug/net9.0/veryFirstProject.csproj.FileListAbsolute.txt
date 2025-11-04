@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\bin\Debug\net9.0\veryFirstProject.exe
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\bin\Debug\net9.0\veryFirstProject.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\bin\Debug\net9.0\veryFirstProject.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\bin\Debug\net9.0\veryFirstProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\bin\Debug\net9.0\veryFirstProject.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\refint\veryFirstProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\veryFirstProject.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\veryFirstProject\veryFirstProject\obj\Debug\net9.0\ref\veryFirstProject.dll

@@ -1,11 +1,36 @@
-﻿internal class Program
+﻿using Microsoft.VisualBasic;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        //Greet user and prompt for year #
-        Console.Write("Welcome to the hyper advanced leap year program! Please enter any year >> ");
-int year = int.Parse(Console.ReadLine());
+        int year = 0;
+        bool validInput = false;
+        while (!validInput)
+        {
+            //Greet user and prompt for year #
+            Console.Write("Welcome to the hyper advanced leap year program! Please enter any year >> ");
+            string input = Console.ReadLine();
 
+            //check if input is valid and below 9999
+            if (int.TryParse(input, out year))
+            {
+                if (year >= 1 && year <= 9999)
+                {
+                    validInput = true;
+                }
+                else
+                {
+                    Console.WriteLine("Error: Please enter a year between 1 and 9999");
+                    Console.WriteLine("Lets try again...\n");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Error: Please enter a valid number!");
+                Console.WriteLine("Lets try again...\n");
+            }
+        }
         //Check for divisibility 
         bool divBy4 = year % 4 == 0;
         bool divBy100 = year % 100 == 0;
