@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\bin\Debug\net8.0\calculatorApp.exe
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\bin\Debug\net8.0\calculatorApp.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\bin\Debug\net8.0\calculatorApp.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\bin\Debug\net8.0\calculatorApp.dll
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\bin\Debug\net8.0\calculatorApp.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.dll
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\refint\calculatorApp.dll
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\calculatorApp.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\calculatorApp\obj\Debug\net8.0\ref\calculatorApp.dll
