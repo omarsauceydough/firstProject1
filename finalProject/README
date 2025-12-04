@@ -1,0 +1,8 @@
+WHAT IS THE PROGRAM?----------------------------------------------------------------------------------------------------
+This program adds and loads student data from a CSV file, holding information such as their student ID, name, courses, and their average grade. It also automatically assigns a student ID to new students, and can display the list of students and their corresponding ID to keep track of such.
+
+FEATURES-----------------------------------------------------------------------------------------------------------------
+This program is capable writing new student data to a CSV file, saving information such as their course, grade, and average grade if the student is taking more than one course. The programs strongest feature is putting that information in a readable uniform format in a CSV file, and then able to load said data persistently.
+
+HOW TO USE?--------------------------------------------------------------------------------------------------------------
+Run the program, and a menu screen should appear. The data from the CSV file should automatically load existing student data (if any). Through here, you can add new students to the system, which automatically assigns them an automatic ID. You can also add course data to students, which includes the name of the course and student grade, and then list students and their ID to facilitate the process of finding their data. Finally, you can save and exit. The save and exit feature is crucial for saving data, and the data is all organized automatically in a readable format in the CSV file. The data in the CSV file can be manually changed within the CSV, so long as it follows formatting rules. 

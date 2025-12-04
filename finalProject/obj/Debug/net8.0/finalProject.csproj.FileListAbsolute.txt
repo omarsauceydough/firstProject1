@@ -1,0 +1,15 @@
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.sourcelink.json
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\bin\Debug\net8.0\finalProject.exe
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\bin\Debug\net8.0\finalProject.deps.json
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\bin\Debug\net8.0\finalProject.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\bin\Debug\net8.0\finalProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\bin\Debug\net8.0\finalProject.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\refint\finalProject.dll
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.pdb
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\finalProject.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\firstProject1\finalProject\obj\Debug\net8.0\ref\finalProject.dll
