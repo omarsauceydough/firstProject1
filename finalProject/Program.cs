@@ -12,10 +12,11 @@ internal class Program
 
         bool running = true;
 
+        //Main menu
         while (running)
         {
             Console.WriteLine();
-            Console.WriteLine("=== Student Management System ===");
+            Console.WriteLine("=== ADVANCED Student Management System ===");
             Console.WriteLine("1) Add Student");
             Console.WriteLine("2) Assign Course to Student");
             Console.WriteLine("3) View Student Average");
@@ -43,16 +44,16 @@ internal class Program
                     running = false;
                     break;
                 default:
-                    Console.WriteLine("Invalid option.");
+                    Console.WriteLine("Invalid option. Please try again.");
                     break;
             }
         }
     }
 
-    //addStudent method
+    //Method to add students to the system
     static void AddStudent()
     {
-        Console.Write("Enter student name: ");
+        Console.Write("Enter student name>> ");
         string name = Console.ReadLine();
         if (name == null || name.Trim() == "")
         {
@@ -60,17 +61,17 @@ internal class Program
             return;
         }
 
-        
+        //Automatic ID assigning
         int id = students.Count + 1;
         Student s = new Student(id, name.Trim());
         students.Add(s);
         Console.WriteLine("Added student:" + s.Name + " (ID: " + s.Id + ")");
     }
 
-    //Method to assign course
+    //Method to assign courses to students 
     static void AssignCourse()
     {
-        Console.Write("Enter student ID >> ");
+        Console.Write("Enter student ID>> ");
         string idInput = Console.ReadLine();
         int id;
 
